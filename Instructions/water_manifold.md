@@ -1,14 +1,13 @@
-
-## Assemble the Water Manifold
-* *on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires.*
-1. See **Sub-Assembly BOM's** **"Water Manifold"** tab for a complete list of parts.
-2. Join the two plastic panels together with x3 **S-#08-32-050-BTN-S-SS (Bag 3)**, **S-#08-32-094-NUT-H-SS (Bag 6)**, & **S-#08-00-125-LBR-O-SS (Bag 32)** stainless steel L-brackets.
-3. Fasten two more **S-#08-32-050-BTN-S-SS (Bag 3)**, **S-#08-32-094-NUT-H-SS (Bag 6)**, & **S-#08-00-125-LBR-O-SS (Bag 32)** L-Brackets facing the opposite direction in the shown holes: ![L-Brackets on the Manifold](Photos/Water_Manifold/water_manifold_plates.jpg)
-4. Thread one **S-050-NN-019-NUT-O-PL (Bag 40)** plastic NPT locknut onto the pependicular outlet of **ACT-PMP-CZD-0001** Circulation pump, flat side outward.
-5. Thread the **ACT-FLT-0001** filter onto the inlet of the pump, inline with the body.
-6. Fit the Outlet of the pump through a hole in the vertical section so the filter inlet is away from the sensors. Thread the other **S-050-NN-019-NUT-O-PL (Bag 40)** plastic NPT locknut onto the outlet.
-7. Thread another **S-#08-32-094-NUT-H-SS (Bag 6)** L-bracket in place similar to the shown picure, using th same fasteners. for the Water level sensors [PIC: Water manifold assembly]higher
-8. Mount two **SEN-PRB-CZD-0003** water level sensors in the ports on the small **STR-PNL-0009** water level sensor mounts.
-9. Hang this assembly by the L-bracket from step 7, using the same **S-#08-00-125-LBR-O-SS (Bag 32)** & **S-#08-32-050-BTN-S-SS (Bag 3)** fasteners.
-10. Route the **SEN-PRB-CZD-0003** temperature sensor through the the a larger hole in the water manifold, then Secure to a small cutout on the vertical using a ziptie.![Water Manifold Components Connected](Photos/Water_Manifold/water_manifold_assembled.jpg)
-11. The PH and EC Sensors simply drop in place through any appropriate circular cutout. Make Sure Not to leave the PH sensor out of liquid for extended periods of time.
+## Montagem do Coletor de Água
+* *em cada painel há recortes retangulares do tamanho de uma unha. Use esses recortes e abraçadeiras para roteamento dos fios.*
+1. Veja a aba **"Coletor de Água"** em **Sub-Assembly BOM's** para uma lista completa de peças.
+2. Una os dois painéis de plástico com 3 **S-#08-32-050-BTN-S-SS (Saco 3)**, **S-#08-32-094-NUT-H-SS (Saco 6)**, e **S-#08-00-125-LBR-O-SS (Saco 32)** suportes L de aço inoxidável.
+3. Prenda mais dois **S-#08-32-050-BTN-S-SS (Saco 3)**, **S-#08-32-094-NUT-H-SS (Saco 6)**, e **S-#08-00-125-LBR-O-SS (Saco 32)** suportes L voltados na direção oposta nos buracos mostrados: ![Suportes L no Coletor](Photos/Water_Manifold/water_manifold_plates.jpg)
+4. Rosqueie uma porca de travamento de plástico NPT **S-050-NN-019-NUT-O-PL (Saco 40)** na saída perpendicular da bomba de circulação **ACT-PMP-CZD-0001**, com o lado plano para fora.
+5. Rosqueie o filtro **ACT-FLT-0001** na entrada da bomba, alinhado com o corpo.
+6. Encaixe a saída da bomba através de um buraco na seção vertical de forma que a entrada do filtro fique afastada dos sensores. Rosqueie a outra porca de travamento de plástico NPT **S-050-NN-019-NUT-O-PL (Saco 40)** na saída.
+7. Rosqueie outro suporte L **S-#08-32-094-NUT-H-SS (Saco 6)** no lugar similar à imagem mostrada, usando os mesmos fixadores para os sensores de nível de água [PIC: Montagem do Coletor de Água] mais alto.
+8. Monte dois sensores de nível de água **SEN-PRB-CZD-0003** nas portas dos pequenos suportes de sensor de nível de água **STR-PNL-0009**.
+9. Pendure esta montagem pelo suporte L do passo 7, usando os mesmos fixadores **S-#08-00-125-LBR-O-SS (Saco 32)** e **S-#08-32-050-BTN-S-SS (Saco 3)**.
+10. Passe o sensor de temperatura **SEN-PRB-CZD-0003** através de um buraco maior no coletor de água e prenda a um pequeno recorte na vertical usando uma abraçadeira. ![Componentes do Coletor de Água Conectados](Photos/Water_Manifold/water_manifold_assembled.jpg)
+11. Os sensores de PH e EC simplesmente encaixam-se através de qualquer recorte circular apropriado. Certifique-se de não deixar o sensor de PH fora de líquido por longos períodos de tempo.

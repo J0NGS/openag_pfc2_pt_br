@@ -1,16 +1,17 @@
-## Assemble the Light Panel
-* *WARNING! Tightening light straps before each row of lights is finished may cause a strap to break.*
- ![Light Panel Components](Photos/Light_Panel/light_manifold_components.jpg)
+## Montagem do Painel de Luz
 
-1. See **Sub-Assembly BOM's** **"Light Manifold"** tab for a complete list of parts.
-2. On Acrylic Light Panel **STR-PNL-0006**, locate the small etching at the corner of the piece. This is the top of the panel.
-3. With the etching at near left corner, Populate the 5 small holes in the first row with 8-32x0.75" bolts.
-4. Begin the pattern of the LED strands from their connectorized ends at the near right corner, see above pattern for placement.
-5. See this picture for an overview of the LED panel orientation and refer to here as you continue. The numbers for the other colors can be found under `Instructions/Photos/Light_Panel/[blue|red]_led_routing_8in.png`:
-![](Photos/Light_Panel/white_led_routing_8in.png)
-5. Fit the longer light strap **STR-PNL-0011** to the bolt pattern. Thread one **S-#08-32-094-NUT-H-SS (Bag 6)** nut onto the 8-32x0.75 **S-#08-32-075-BTN-S-SS (Bag 4)** screw between the red & white LED's. Only turn the nut 1-2 times- Tightening nuts before finishing this row may break a strap.  ![LED Mounting start picture](Photos/Light_Panel/led_mount_start.jpg)
-6. Begin populating the patterned holes to the left according to the above schematic. Loosly thread nuts onto the bolts aft each section.
-7. For the White LEDs, skip two as shown Here: ![PIC LED 7](Photos/Light_Panel/led_7.jpg) These will populate the middle row.
-8. Populate the middle row via the same method, following the schematic.
-9. The in the final Row, start on the left with the Last LED of the red strand, Moving right as you populate the row. ![Finished Top Side](Photos/Light_Panel/8_in_leads.jpg)
-10. Mount the camera to the light panel using the supplied x4 **S-#02-56-050-STD-H-AL-FF (Bag 19)**, x8 **S-#02-56-025-BTN-S-SS (Bag 21)**, and the **SEN-PRB-0005** camera. Orient the camera so the connecector is closest to the LED string connectors. ![Camera Mounting](Photos/Light_Panel/camera_2.jpg)
+* *AVISO! Apertar as tiras de luz antes de terminar cada fileira de luzes pode causar a quebra de uma tira.*
+![Componentes do Painel de Luz](Photos/Light_Panel/light_manifold_components.jpg)
+
+1. Consulte a aba **"Manifold de Luz"** em **Sub-Assembly BOM's** para uma lista completa de peças.
+2. No Painel de Luz de Acrílico **STR-PNL-0006**, localize a pequena gravação no canto da peça. Este é o topo do painel.
+3. Com a gravação no canto próximo esquerdo, preencha os 5 pequenos buracos na primeira fileira com parafusos 8-32x19 mm.
+4. Comece o padrão das tiras de LED a partir das extremidades conectorizadas no canto próximo direito, veja o padrão acima para o posicionamento.
+5. Veja esta imagem para uma visão geral da orientação do painel de LED e consulte aqui à medida que continuar. Os números para as outras cores podem ser encontrados em `Instructions/Photos/Light_Panel/[blue|red]_led_routing_8in.png`:
+![Roteamento do LED branco](Photos/Light_Panel/white_led_routing_8in.png)
+6. Ajuste a tira de luz mais longa **STR-PNL-0011** ao padrão do parafuso. Rosqueie uma **S-#08-32-094-NUT-H-SS (Saco 6)** porca no parafuso 8-32x19 **S-#08-32-075-BTN-S-SS (Saco 4)** entre os LEDs vermelhos e brancos. Apenas gire a porca 1-2 vezes - Apertar as porcas antes de terminar esta fileira pode quebrar uma tira. ![Início da montagem do LED](Photos/Light_Panel/led_mount_start.jpg)
+7. Comece a preencher os buracos padronizados à esquerda de acordo com o esquema acima. Rosqueie frouxamente as porcas nos parafusos após cada seção.
+8. Para os LEDs brancos, pule dois conforme mostrado aqui: ![PIC LED 7](Photos/Light_Panel/led_7.jpg) Estes preencherão a fileira do meio.
+9. Preencha a fileira do meio da mesma maneira, seguindo o esquema.
+10. Na fileira final, comece à esquerda com o último LED da tira vermelha, movendo-se para a direita enquanto preenche a fileira. ![Lado superior finalizado](Photos/Light_Panel/8_in_leads.jpg)
+11. Monte a câmera no painel de luz usando os x4 parafusos fornecidos **S-#02-56-050-STD-H-AL-FF (Saco 19)**, x8 **S-#02-56-025-BTN-S-SS (Saco 21)**, e a câmera **SEN-PRB-0005**. Oriente a câmera de modo que o conector fique mais próximo dos conectores da tira de LED. ![Montagem da Câmera](Photos/Light_Panel/camera_2.jpg)

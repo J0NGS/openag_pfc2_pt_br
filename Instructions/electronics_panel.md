@@ -1,44 +1,44 @@
-## Assemble The Electronics Panel Components
+## Montagem dos Componentes do Painel Eletrônico
 
-#### Tools
-- 1/16" Hex Driver
-- 3/32" Hex Driver
-- 1/4" Nut Driver
-- 1/4" wrench
+#### Ferramentas
+- Chave Hex de 1,5 mm
+- Chave Hex de 2,5 mm
+- Chave de porca de 6,4 mm
+- Chave de 6,4 mm
 
-### Wire Seals
-1. Gather foam squares **STR-FOM-0001**, **STR-FOM-0002**, & acrylic square **STR-PNL-0010**  from the foam pack.
-2. Remove the adhesive protection from the foam
-3. Match the patterns of the foam to their respective spots, and stick on.  **STR-FOM-0002** sticks to the electronics panel **STR-PNL-0017**, **STR-FOM-0001** sticks to the **STR-PNL-0010** backing plate.
-![inner side panel hole](Photos/Inner_Side_Panel/Wire_Seals/inner_side_panel_hole_1.jpg)
-![foam](Photos/Inner_Side_Panel/Wire_Seals/wire_sealing_5.jpg)
-![backing plate](Photos/Inner_Side_Panel/Wire_Seals/wire_sealing_2.jpg)
+### Vedação de Fios
+1. Reúna os quadrados de espuma **STR-FOM-0001**, **STR-FOM-0002**, e o quadrado acrílico **STR-PNL-0010** do pacote de espuma.
+2. Remova a proteção adesiva da espuma.
+3. Combine os padrões da espuma com seus respectivos locais e cole. **STR-FOM-0002** cola no painel eletrônico **STR-PNL-0017**, **STR-FOM-0001** cola na placa de apoio **STR-PNL-0010**.
+![buraco no painel lateral interno](Photos/Inner_Side_Panel/Wire_Seals/inner_side_panel_hole_1.jpg)
+![espuma](Photos/Inner_Side_Panel/Wire_Seals/wire_sealing_5.jpg)
+![placa de apoio](Photos/Inner_Side_Panel/Wire_Seals/wire_sealing_2.jpg)
 
-4. Note the orientation arrow on the acrylic plate. This indicates the direction the wires should pass through to seal.
+4. Observe a seta de orientação na placa de acrílico. Isso indica a direção que os fios devem passar para vedar.
 
-### Pump Assembly
-1. Collect components listed in **Sub Assembly BOM's** **Peristaltic Pumps** tab.
-2. Locate orientation arrow. The pumps mount relative to this.
-3. Slot the pump through the hole, with attention to the direction its wires point.
-4. All pumps wires should face to the right relative to the arrow. The tubes should face outward.
-  * if the wires face the wrong direction, the body can be easily uncliped & rotated 90^o
-5. Tighten each pump on using x2 **S-#04-40-375-BTN-S-SS (Bag 14)** (4-40 x 0375 button head) and **S-#04-40-094-NUT-H-SS (Bag 15)** (#4-40 nut)
-6. Mount x4 **S-#08-32-250-STD-H-AL-FF (Bag 9)**(8-32x2.5 female alum standoff) in the remaining holes using **S-#08-32-375-BTN-S-SS (Bag 2)**(8-32x0375 button head)
-![Peristaltic Pumps Finished Assembly](Photos/Inner_Side_Panel/Pumps/finished_assembly_1.jpg)
+### Montagem da Bomba
+1. Colete os componentes listados na aba **Sub Assembly BOM's** **Peristaltic Pumps**.
+2. Localize a seta de orientação. As bombas são montadas em relação a isso.
+3. Encaixe a bomba no buraco, prestando atenção à direção em que os fios apontam.
+4. Todos os fios das bombas devem apontar para a direita em relação à seta. Os tubos devem apontar para fora.
+  * se os fios estiverem na direção errada, o corpo pode ser facilmente desencaixado e girado 90 graus.
+5. Aperte cada bomba usando 2 parafusos **S-#04-40-375-BTN-S-SS (Saco 14)** (parafuso com cabeça redonda de 4-40 x 0375) e porca **S-#04-40-094-NUT-H-SS (Saco 15)** (porca 4-40).
+6. Monte 4 suportes de alumínio femininos **S-#08-32-250-STD-H-AL-FF (Saco 9)** (8-32x2,5) nos buracos restantes usando parafusos **S-#08-32-375-BTN-S-SS (Saco 2)** (8-32x0375).
+![Montagem Final das Bombas Peristálticas](Photos/Inner_Side_Panel/Pumps/finished_assembly_1.jpg)
 
-### Side Camera
-1. Stick adhesive backed **STR-FOM-0003 (Foam for camera sealing)** to the the camera **SEN-PRB-0005** board as shown.
-2. Place the camera **SEN-PRB-0005** in its port on the inner side panel **STR-PNL-0017**, securing inplace with x4 **S-#02-56-375-BTN-S-SS (Bag 22)** & **S-#02-56-063-NUT-H-SS (Bag 23)**.  Note the orientationof the camera.
-![Camera with foam, at mounting point](Photos/Inner_Side_Panel/Camera/camera_mounting_point.jpg)
+### Câmera Lateral
+1. Cole a espuma **STR-FOM-0003 (Espuma para vedação da câmera)** na placa da câmera **SEN-PRB-0005** conforme mostrado.
+2. Coloque a câmera **SEN-PRB-0005** em sua porta no painel lateral interno **STR-PNL-0017**, fixando-a no lugar com 4 parafusos **S-#02-56-375-BTN-S-SS (Saco 22)** e porcas **S-#02-56-063-NUT-H-SS (Saco 23)**. Observe a orientação da câmera.
+![Câmera com espuma, no ponto de montagem](Photos/Inner_Side_Panel/Camera/camera_mounting_point.jpg)
 
-### Humidity sensor
-1. Place the Mount for the Humidity/temp sensor **SEN-MNT-0001** over its port. Secure inplace using x2 **S-#04-40-050-BTN-S-SS (Bag 11)** & **S-#04-40-094-NUT-H-SS (Bag 15)**.
-2. Place the humidity sensor **SEN-PRB-CZD-0002** in at any time, tightening the screw on the side to secure the sensor.
+### Sensor de Umidade
+1. Coloque o suporte para o sensor de umidade/temperatura **SEN-MNT-0001** sobre sua porta. Fixe no lugar usando 2 parafusos **S-#04-40-050-BTN-S-SS (Saco 11)** e porcas **S-#04-40-094-NUT-H-SS (Saco 15)**.
+2. Coloque o sensor de umidade **SEN-PRB-CZD-0002** a qualquer momento, apertando o parafuso na lateral para fixar o sensor.
 
-### CO2 Sensor
-1. Remove the CO2 sensor **SEN-PRB-CZD-0001** from its package, and put the small wire harness with black connectors to the side. This is not used.
-2. Connect the harness with white connectors from the sensor to the blue board.
-3. Push the sensor throught the port beneath the humidity/temp sensor port.
-4. The small blue board can be neatly taped to the top of the sensor.
-5. After full model assembly is complete, seal around its diameter with silicone sealant.
-![Picture of all sensors](Photos/Inner_Side_Panel/Sensors/all_sensors.jpg)
+### Sensor de CO2
+1. Retire o sensor de CO2 **SEN-PRB-CZD-0001** de sua embalagem e coloque o chicote de fios pequenos com conectores pretos de lado. Este não será usado.
+2. Conecte o chicote com conectores brancos do sensor à placa azul.
+3. Empurre o sensor através da porta abaixo da porta do sensor de umidade/temperatura.
+4. A pequena placa azul pode ser cuidadosamente presa com fita no topo do sensor.
+5. Após a montagem completa do modelo, vede ao redor de seu diâmetro com selante de silicone.
+![Imagem de todos os sensores](Photos/Inner_Side_Panel/Sensors/all_sensors.jpg)
