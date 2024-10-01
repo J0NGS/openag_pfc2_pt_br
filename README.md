@@ -1,49 +1,40 @@
 # openag_pfc2
-This repository contains many resources for constructing a Personal Food Computer v2 (beta)
+Este repositório contém muitos recursos para a construção de um Personal Food Computer v2 (beta)
 
 ![pfc2](Instructions/Photos/pfc2.small.jpg)
 
-## Build Instructions
+## Instruções de Montagem
 
-For many more photos and step by step build instructions, check out
-[instructions.md](instructions.md).
+Para mais fotos e instruções passo a passo de montagem, confira [instructions.md](instructions.md).
 
-## List of Resources
+## Lista de Recursos
 
-Resources included in this repository:
- - [Instructions](instructions.md): How to build a PFC2
- - [Build Video](https://youtu.be/Uf1FqjcPWsI): Video Walkthrough on the build. Good visual cues.
- - [Master Bill of Materials](BOM/BOM_MASTER.xlsx): Tabbed spreadsheet of components needed to
-   build the PFC2
-    - Ordering BOM: Components you will need to order from suppliers
-    - Kit BOM: Components included in the PFC2 kit **\[NOTE: The kits are not available yet\]**
-    - WIR-HAR-PCK-\*: Wiring harness component pack details
-    - __FAS-PCK-0001: Fastener component pack details__ (The sheet with baggie number information on it)
-    - STR-FOM-PCK-0001: Sealing foam component pack details
-    - STR-PNL-PCK-\*: Panel and sticker component pack details
-    - STR-BAR-PCK-0001: Bar component pack details
-    - Raw Materials: Stock materials including aluminum bar, acrylic and HDPE panels,
-      insulation, foam, etc. that can be used to make many of the components in the
-      STR-BAR-\*, STR-PNL-\*, STR-FOM-\*, and STR-INS-\* component packs
- - [Sub Assembly Bill of Materials](BOM/BOM_Sub_Assemblys.xlsx): Tabbed spreadsheet of
-   details on the sub assembly components
-    - Temperature Control Assembly: Heating element, fan, and PC water cooling radiator
-    - Chiller Assembly: Fan, mounting plate, and PC water cooling chiller
-    - Peristaltic Pumps: Nutrient and pH solution pumps and pump mounting panel
-    - Power Module: Power entry module, power switch, and DC power supplies
-    - Light Manifold: LEDs, camera, and mounting panel
-    - Water Manifold: Sensors, panels, pump, filter, etc.
-    - Brain Manifold: Signal board, Raspberry Pi Model 3, Arduino Mega, etc.
- - [Solidworks CAD Model](CAD/GrabCAD/OpenAG-Personal-Food-Computer-V2): Comprehensive view of where
-   parts belong in the computer
- - [Drawings](CAD/GrabCAD/Drawings): Documentation for machining parts or
-   sending to a contract machinist
- - [DXF Files](CAD/GrabCAD/DXF): File format used for laser cutting parts
- - [Wire Harnesses](Wire_Harnesses.xlsx): Bill of Materials and instructions for creating
-   the wire harnesses
- - [Wiring Reference](Wiring_Reference.xlsx): Reference when wiring up the device
- - [Connectorization](Connectorization.xlsx): Bill of Materials and instructions for
-   attaching connectors to the chiller, fans, pumps, LEDs, etc.
+Recursos incluídos neste repositório:
+- [Instruções](instructions.md): Como construir um PFC2
+- [Vídeo de Montagem](https://youtu.be/Uf1FqjcPWsI): Vídeo passo a passo da montagem. Bons indicadores visuais.
+- [Lista Mestre de Materiais](BOM/BOM_MASTER.xlsx): Planilha com abas dos componentes necessários para construir o PFC2
+  - BOM de Pedido: Componentes que você precisará encomendar de fornecedores
+  - BOM do Kit: Componentes incluídos no kit PFC2 **\[NOTA: Os kits ainda não estão disponíveis\]**
+  - WIR-HAR-PCK-\*: Detalhes do pacote de componentes do chicote de fiação
+  - __FAS-PCK-0001: Detalhes do pacote de componentes de fixação__ (A folha com informações sobre o número dos saquinhos)
+  - STR-FOM-PCK-0001: Detalhes do pacote de componentes de espuma de vedação
+  - STR-PNL-PCK-\*: Detalhes do pacote de componentes de painéis e adesivos
+  - STR-BAR-PCK-0001: Detalhes do pacote de componentes de barras
+  - Matérias-Primas: Materiais em estoque, incluindo barra de alumínio, painéis de acrílico e HDPE, isolamento, espuma, etc., que podem ser usados para fazer muitos dos componentes nos pacotes STR-BAR-\*, STR-PNL-\*, STR-FOM-\* e STR-INS-\*
+- [Lista de Materiais de Submontagem](BOM/BOM_Sub_Assemblys.xlsx): Planilha com abas de detalhes sobre os componentes da submontagem
+  - Montagem de Controle de Temperatura: Elemento de aquecimento, ventilador e radiador de resfriamento de PC
+  - Montagem do Resfriador: Ventilador, placa de montagem e resfriador de PC
+  - Bombas Peristálticas: Bombas de solução de nutrientes e pH e painel de montagem da bomba
+  - Módulo de Energia: Módulo de entrada de energia, interruptor de energia e fontes de alimentação DC
+  - Coletor de Luz: LEDs, câmera e painel de montagem
+  - Coletor de Água: Sensores, painéis, bomba, filtro, etc.
+  - Coletor de Controle: Placa de sinal, Raspberry Pi Modelo 3, Arduino Mega, etc.
+- [Modelo CAD Solidworks](CAD/GrabCAD/OpenAG-Personal-Food-Computer-V2): Visão abrangente de onde as peças pertencem no computador
+- [Desenhos](CAD/GrabCAD/Drawings): Documentação para usinagem de peças ou envio para um usinador contratado
+- [Arquivos DXF](CAD/GrabCAD/DXF): Formato de arquivo usado para corte a laser de peças
+- [Chicotes de Fiação](Wire_Harnesses.xlsx): Lista de Materiais e instruções para criar os chicotes de fiação
+- [Referência de Fiação](Wiring_Reference.xlsx): Referência ao conectar o dispositivo
+- [Conectorização](Connectorization.xlsx): Lista de Materiais e instruções para anexar conectores ao resfriador, ventiladores, bombas, LEDs, etc.
 
-### Tools
-For 3D model Access, Go to [http://www.edrawingsviewer.com/](http://www.edrawingsviewer.com/) for a free & legitmate CAD document viewing software.
+### Ferramentas
+Para acesso ao modelo 3D, vá para [http://www.edrawingsviewer.com/](http://www.edrawingsviewer.com/) para um software gratuito e legítimo de visualização de documentos CAD.
