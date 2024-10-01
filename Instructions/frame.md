@@ -1,58 +1,57 @@
-<!-- TODO: Indicate significance of threading -->
-<!-- TODO: Identify chirarity and parts, the things that were confusing. -->
-## Assemble the Frame
-### Tools
- - tape measure
- - Rubber Mallet
- - Table
- - 1/4" Flat head Screwdriver
+<!-- TODO: Identificar quiralidade e partes, as coisas que foram confusas. -->
+## Montar a Estrutura
+### Ferramentas
+ - Fita métrica
+ - Martelo de borracha
+ - Mesa
+ - Chave de fenda de cabeça chata de 1/4"
 
- 1. Check that your kit has all the proper frame bars & connectors. In **BOM_Master**, See the **STR-BAR-PCK-0001** & **"Kit Stage 1 BOM"** tab for a list of bars, and connectors. (STR-CON-0001, STR-CON-0002, STR-CON-0003)
- 2.  Set the baseplate to the side for now, and group the bars by length
-![Sorted Bars](Photos/Frame_Build_Photos/parts_1.jpg) ![connectors](Photos/Frame_Build_Photos/parts_2.jpg)
+ 1. Verifique se o seu kit possui todas as barras e conectores adequados. Em **BOM_Master**, veja a aba **STR-BAR-PCK-0001** & **"Kit Stage 1 BOM"** para uma lista de barras e conectores. (STR-CON-0001, STR-CON-0002, STR-CON-0003)
+ 2. Coloque a placa base de lado por enquanto e agrupe as barras por comprimento.
+![Barras Ordenadas](Photos/Frame_Build_Photos/parts_1.jpg) ![conectores](Photos/Frame_Build_Photos/parts_2.jpg)
 
-#### Base Layer
+#### Camada Base
 
-1. Collect the Base Layer Components:
-  * x2 of STR-BAR-0001 	(18" 	Bar)
-  * x1 of STR-BAR-0003 	(21.25" Bar [Holes on all sides])
-  * x1 of STR-BAR-0004	(8.25" 	Bar)
-  * x1 of STR-BAR-0005	(12"	Bar)
-  * x1 of STR-BAR-0006	(5.25"	Bar)
-  * x1 of STR-BAR-0007	(7"		Bar)
-  * x1 of STR-BAR-0008	(21.25"	Bar [Holes on 2 sides])
-  * x4 of STR-CON-0001 	(3-Way Connector)
-  * x2 of STR-CON-0002 	(4-Way Connector)
-  * x2 of STR-CON-0003 	(2-Way Connector)
+1. Colete os Componentes da Camada Base:
+  * x2 de STR-BAR-0001 	(Barra de 18")
+  * x1 de STR-BAR-0003 	(Barra de 21,25" [Furos em todos os lados])
+  * x1 de STR-BAR-0004	(Barra de 8,25")
+  * x1 de STR-BAR-0005	(Barra de 12")
+  * x1 de STR-BAR-0006	(Barra de 5,25")
+  * x1 de STR-BAR-0007	(Barra de 7")
+  * x1 de STR-BAR-0008	(Barra de 21,25" [Furos em 2 lados])
+  * x4 de STR-CON-0001 	(Conector de 3 vias)
+  * x2 de STR-CON-0002 	(Conector de 4 vias)
+  * x2 de STR-CON-0003 	(Conector de 2 vias)
 
-2. In x1 **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x1 **STR-CON-0001** and x1 **STR-CON-0002**. Wider hole spacing should be on the vertical surface in the final assembly. These bars line the bottom side of the grow chamber. ![STR-BAR-0001 with STR-CON components.](Photos/Frame_Build_Photos/bottom_layer_1.jpg)
-3. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. The wider hole spacing of **STR-BAR-0003** should be on the vertical surface. Make sure the 4-way connnector **STR-CON-0002** is in the far left corner. Some *light* force may be required here. Set This Assembly to the side. ![Grow Chamber portion of bottom layer.](Photos/Frame_Build_Photos/bottom_layer_half_1.jpg)
-4. Gather x1 of: **STR-BAR-0004**, **STR-BAR-0005**, **STR-BAR-0006**, **STR-BAR-0007**.
-5. Connect x1 of **STR-CON-0001**  and x1 of **STR-CON-0002** into **STR-BAR-0005**, in orientation shown below.
-6. Connect **STR-BAR-0004** onto the 3-way connector, wider hole spacing vertical on the vertical surface, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown.![Electric Box Portion of Bottom Layer.](Photos/Frame_Build_Photos/bottom_layer_4.jpg)
-7. Press the **STR-CON-0003** connectors into the ends of **STR-BAR-0007** & **STR-BAR-0006**.
-8. Double check all bar orientations, then attach the two assemblies together. ![Final step of bottom layer assembly](Photos/Frame_Build_Photos/bottom_layer_6.jpg)
+2. Em x1 barra **STR-BAR-0001**, insira x2 conectores **STR-CON-0001**. Na outra **STR-BAR-0001**, insira x1 conector **STR-CON-0001** e x1 conector **STR-CON-0002**. O espaçamento mais largo dos furos deve estar na superfície vertical na montagem final. Essas barras alinham o lado inferior da câmara de cultivo. ![STR-BAR-0001 com componentes STR-CON.](Photos/Frame_Build_Photos/bottom_layer_1.jpg)
+3. Coloque uma **STR-BAR-0003** na parte de trás e uma **STR-BAR-0008** na frente. O espaçamento mais largo dos furos da **STR-BAR-0003** deve estar na superfície vertical. Certifique-se de que o conector de 4 vias **STR-CON-0002** esteja no canto esquerdo. Pode ser necessário um pouco de força *leve* aqui. Coloque esta montagem de lado. ![Parte da câmara de cultivo da camada inferior.](Photos/Frame_Build_Photos/bottom_layer_half_1.jpg)
+4. Reúna x1 de: **STR-BAR-0004**, **STR-BAR-0005**, **STR-BAR-0006**, **STR-BAR-0007**.
+5. Conecte x1 de **STR-CON-0001** e x1 de **STR-CON-0002** em **STR-BAR-0005**, na orientação mostrada abaixo.
+6. Conecte **STR-BAR-0004** no conector de 3 vias, espaçamento mais largo dos furos na superfície vertical, **STR-BAR-0007** perpendicular no conector de 4 vias, e **STR-BAR-0006** paralelo, com os furos orientados conforme mostrado.![Parte da Caixa Elétrica da Camada Inferior.](Photos/Frame_Build_Photos/bottom_layer_4.jpg)
+7. Pressione os conectores **STR-CON-0003** nas extremidades de **STR-BAR-0007** e **STR-BAR-0006**.
+8. Verifique todas as orientações das barras, depois conecte as duas montagens. ![Etapa final da montagem da camada inferior](Photos/Frame_Build_Photos/bottom_layer_6.jpg)
 
-### Mount Frame to Base Plate
-1. The Frame is mounted to the baseplate with **S-018-32-075-PST-F-AL (Bag 31)** Binder post. The countersunk holes of the baseplate should face down.
+### Montar a Estrutura na Placa Base
+1. A estrutura é montada na placa base com **S-018-32-075-PST-F-AL (Saco 31)** Binder post. Os furos escareados da placa base devem estar voltados para baixo.
 
-### Mounting Vertical Members
-1. There are three vertical members: **STR-BAR-0002**, **STR-BAR-0009** & **STR-BAR-0010**
-  * Refering to **BOM-Master's STR-BAR-PCK-0001**,
-  * **STR-BAR-0010** has L-brackets attached to it, with two larger holes on the bottom.
-  	* One of the **STR-BAR-0010** does not have L-Brackets, but has threads.
-  	* One of the **STR-BAR-0010** with L-brackets has threads, but the other 2 do not.
-  * **STR-BAR-0009** has 10 holes, including Threads for the door attachement
-  * **STR-BAR-0002** has 16 holes, and stands in the Rear of the growing chamber.
-2. Attach all **STR-BAR-0010** to the Electronics Box side- the smaller bottom half.
-	* Take note of the thread orientation: ![**STR-BAR-0010** Orientations](Photos/Frame_Build_Photos/Verticals/vert_2.jpg) <!-- TODO: Rotate image -->
-3. Attach both **STR-BAR-0002** to the back two connectors of the growing chamber, wider hole spacing toward back. *Attention:* This bar is not symmetric. There is a top & bottom. How to tell: <!-- TODO: HOW TO TELL -->
-4. attach both **STR-BAR-0009** to the front two connectors, threaded holes facing outward.
- * It is good practice to check Acrylic panel alignment before continuing. **STR-BAR-0002** is designed to be symetric, hoever small variations in machining caould cause misaligned holes.
+### Montagem dos Membros Verticais
+1. Existem três membros verticais: **STR-BAR-0002**, **STR-BAR-0009** e **STR-BAR-0010**
+  * Referindo-se ao **BOM-Master's STR-BAR-PCK-0001**,
+  * **STR-BAR-0010** tem suportes em L anexados, com dois furos maiores na parte inferior.
+      * Um dos **STR-BAR-0010** não tem suportes em L, mas tem roscas.
+      * Um dos **STR-BAR-0010** com suportes em L tem roscas, mas os outros 2 não.
+  * **STR-BAR-0009** tem 10 furos, incluindo roscas para a fixação da porta.
+  * **STR-BAR-0002** tem 16 furos e fica na parte traseira da câmara de cultivo.
+2. Anexe todos os **STR-BAR-0010** ao lado da Caixa de Eletrônicos - a metade inferior menor.
+    * Observe a orientação das roscas: ![Orientações de **STR-BAR-0010**](Photos/Frame_Build_Photos/Verticals/vert_2.jpg) <!-- TODO: Rotacionar imagem -->
+3. Anexe ambos os **STR-BAR-0002** aos dois conectores traseiros da câmara de cultivo, espaçamento mais largo dos furos voltado para trás. *Atenção:* Esta barra não é simétrica. Há um topo e um fundo. Como identificar: <!-- TODO: COMO IDENTIFICAR -->
+4. Anexe ambos os **STR-BAR-0009** aos dois conectores frontais, com os furos roscados voltados para fora.
+ * É uma boa prática verificar o alinhamento do painel de acrílico antes de continuar. **STR-BAR-0002** foi projetado para ser simétrico, no entanto, pequenas variações na usinagem podem causar furos desalinhados.
 
-![Vertical Bars in their places.](Photos/Frame_Build_Photos/Verticals/vert_16.jpg)
+![Barras Verticais em seus lugares.](Photos/Frame_Build_Photos/Verticals/vert_16.jpg)
 
-#### Top Layer
+#### Camada Superior
 
 - **STR-BAR-0001** x2
 - **STR-BAR-0003** x1
@@ -65,13 +64,13 @@
 - **STR-CON-0002** x3
 - **STR-CON-0003** x1
 
-1. In one **STR-BAR-0001** bar, Insert x2 **STR-CON-0001** connectors. In The other **STR-BAR-0001**, insert x2 **STR-CON-0002**. Wider hole spacing should be through the vertical surface of each bar, as shown. These bars line the top side of the grow chamber.![Top Side Bars of Growing Chamber](Photos/Frame_Build_Photos/top_layer_1.jpg)
-1. Lay down one **STR-BAR-0003** in back, and one **STR-BAR-0008** in front. Again, the wider hole spacing on **STR-BAR-0003** should be on the vertical surface. Push the components together. Some *light* force may be necessary here.![Growing Chamber Half of Top Layer](Photos/Frame_Build_Photos/top_layer_13.jpg)
-1. Gather x2 of **STR-BAR-0004**, x1 of **STR-BAR-0005**, x1 of **STR-BAR-0006**, x1 of **STR-BAR-0007**, x2 of **STR-CON-0001**, x1 of **STR-CON-0002**, x1 of **STR-CON-0003**.
-1. Connect x1 **STR-CON-0001**  and x1 **STR-CON-0002** into **STR-BAR-0005**, in orientation shown.
-1. Connect **STR-BAR-0004** onto the 3-way connector with holes oriented as shown, **STR-BAR-0007** perpendicular on the 4-way connector, and **STR-BAR-0006** parallel, with holes oriented as shown. ![Step 4&5](Photos/Frame_Build_Photos/top_layer_4.jpg)
-1. Insert x1 **STR-CON-0003** in the end of **STR-BAR-0007** with the exposed end downward, x1 **STR-CON-0001** similarly into **STR-BAR-0006**.
-1. Connect the final **STR-BAR-0004** horizontally on the 3 way connector. Centered thread through the outer vertical surface.![Electric Box Portion of Top Layer](Photos/Frame_Build_Photos/top_layer_8.jpg)
-1. check orientations, attach halves.
-![Final Top Frame](Photos/Frame_Build_Photos/top_layer_9.jpg)
-* *Wait! do not put the top half on. First, Assemble the Electronics Panel*
+1. Em uma barra **STR-BAR-0001**, insira x2 conectores **STR-CON-0001**. Na outra **STR-BAR-0001**, insira x2 conectores **STR-CON-0002**. O espaçamento mais largo dos furos deve estar na superfície vertical de cada barra, conforme mostrado. Essas barras alinham o lado superior da câmara de cultivo.![Barras Laterais Superiores da Câmara de Cultivo](Photos/Frame_Build_Photos/top_layer_1.jpg)
+1. Coloque uma **STR-BAR-0003** na parte de trás e uma **STR-BAR-0008** na frente. Novamente, o espaçamento mais largo dos furos na **STR-BAR-0003** deve estar na superfície vertical. Empurre os componentes juntos. Pode ser necessário um pouco de força *leve* aqui.![Metade da Câmara de Cultivo da Camada Superior](Photos/Frame_Build_Photos/top_layer_13.jpg)
+1. Reúna x2 de **STR-BAR-0004**, x1 de **STR-BAR-0005**, x1 de **STR-BAR-0006**, x1 de **STR-BAR-0007**, x2 de **STR-CON-0001**, x1 de **STR-CON-0002**, x1 de **STR-CON-0003**.
+1. Conecte x1 **STR-CON-0001** e x1 **STR-CON-0002** em **STR-BAR-0005**, na orientação mostrada.
+1. Conecte **STR-BAR-0004** no conector de 3 vias com os furos orientados conforme mostrado, **STR-BAR-0007** perpendicular no conector de 4 vias, e **STR-BAR-0006** paralelo, com os furos orientados conforme mostrado. ![Etapas 4 e 5](Photos/Frame_Build_Photos/top_layer_4.jpg)
+1. Insira x1 **STR-CON-0003** na extremidade de **STR-BAR-0007** com a extremidade exposta voltada para baixo, x1 **STR-CON-0001** de forma semelhante em **STR-BAR-0006**.
+1. Conecte a última **STR-BAR-0004** horizontalmente no conector de 3 vias. Rosca central através da superfície vertical externa.![Parte da Caixa Elétrica da Camada Superior](Photos/Frame_Build_Photos/top_layer_8.jpg)
+1. Verifique as orientações, conecte as metades.
+![Estrutura Superior Final](Photos/Frame_Build_Photos/top_layer_9.jpg)
+* *Espere! não coloque a metade superior ainda. Primeiro, monte o Painel de Eletrônicos*
