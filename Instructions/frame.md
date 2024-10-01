@@ -13,13 +13,13 @@
 #### Camada Base
 
 1. Colete os Componentes da Camada Base:
-  * x2 de STR-BAR-0001 	(Barra de 18")
-  * x1 de STR-BAR-0003 	(Barra de 21,25" [Furos em todos os lados])
-  * x1 de STR-BAR-0004	(Barra de 8,25")
-  * x1 de STR-BAR-0005	(Barra de 12")
-  * x1 de STR-BAR-0006	(Barra de 5,25")
-  * x1 de STR-BAR-0007	(Barra de 7")
-  * x1 de STR-BAR-0008	(Barra de 21,25" [Furos em 2 lados])
+  * x2 de STR-BAR-0001 	(Barra de 45,72 cm)
+  * x1 de STR-BAR-0003 	(Barra de 53,98 cm [Furos em todos os lados])
+  * x1 de STR-BAR-0004	(Barra de 20,96 cm)
+  * x1 de STR-BAR-0005	(Barra de 30,48 cm)
+  * x1 de STR-BAR-0006	(Barra de 13,34 cm)
+  * x1 de STR-BAR-0007	(Barra de 17,78 cm)
+  * x1 de STR-BAR-0008	(Barra de 53,98 cm [Furos em 2 lados])
   * x4 de STR-CON-0001 	(Conector de 3 vias)
   * x2 de STR-CON-0002 	(Conector de 4 vias)
   * x2 de STR-CON-0003 	(Conector de 2 vias)
